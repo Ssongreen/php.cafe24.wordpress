@@ -99,8 +99,9 @@
 
 
 ## 결론 
-* 목표 https 를 위해 SSL 인증서 발급 *현재  페이지는 한글,  영문으로 나뉘어짐 같은 프로젝트로 구성되었기 때문에 한 도메인으로 신청해도 둘다 가능
-  10G 광 아우토반은 무료 신청서가 없음으로 아래 제품중 라이트로 신청
+* 목표 https 를 위해 SSL 인증서 발급
+* 현재  페이지는 한글,  영문으로 나뉘어짐 같은 프로젝트로 구성되었기 때문에 한 도메인으로 신청해도 둘다 가능
+* 10G 광 아우토반은 무료 신청서가 없음으로 아래 제품중 라이트로 신청
 * ![image](https://github.com/user-attachments/assets/0c4befcd-0070-4cd6-b5f7-516cfa16b7d9)
 * 가입 등록 이후
 * ![image](https://github.com/user-attachments/assets/7f8dc285-84bf-40db-a4f7-d7e398342c1b)
